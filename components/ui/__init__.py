@@ -1,0 +1,1 @@
+from .cog_view import CogManagerView

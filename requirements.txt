@@ -1,0 +1,7 @@
+discord.py
+cryptography
+requests
+aiohttp
+assemblyai
+dotenv
+yt-dlp
